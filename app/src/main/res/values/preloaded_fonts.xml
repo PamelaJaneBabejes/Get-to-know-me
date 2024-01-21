@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/adamina</item>
+        <item>@font/aladin</item>
+        <item>@font/baskervville</item>
+        <item>@font/courgette</item>
+        <item>@font/days_one</item>
+        <item>@font/goblin_one</item>
+        <item>@font/princess_sofia</item>
+    </array>
+</resources>
